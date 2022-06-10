@@ -3,5 +3,21 @@
         <title>Tags - 标签 - 杨先生的网站</title>
         <link>https://yjq14114.github.io/yangengineer/tags/</link>
         <description>Tags - 标签 - 杨先生的网站</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://yjq14114.github.io/yangengineer/tags/" rel="self" type="application/rss+xml" /></channel>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://yjq14114.github.io/yangengineer/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>HTML</title>
+    <link>https://yjq14114.github.io/yangengineer/tags/html/</link>
+    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://yjq14114.github.io/yangengineer/tags/html/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Markdown</title>
+    <link>https://yjq14114.github.io/yangengineer/tags/markdown/</link>
+    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://yjq14114.github.io/yangengineer/tags/markdown/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
 </rss>
