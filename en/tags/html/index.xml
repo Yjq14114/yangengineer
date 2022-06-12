@@ -4,6 +4,14 @@
         <link>https://yjq14114.github.io/en/tags/html/</link>
         <description>HTML - Tag - Mr.Yang WebSite</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://yjq14114.github.io/en/tags/html/" rel="self" type="application/rss+xml" /><item>
+    <title>Basic Markdown Syntax</title>
+    <link>https://yjq14114.github.io/en/posts/basic-markdown-syntax/</link>
+    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <author>Dillon</author>
+    <guid>https://yjq14114.github.io/en/posts/basic-markdown-syntax/</guid>
+    <description><![CDATA[<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files.</p>]]></description>
+</item>
+<item>
     <title>Markdown 基本语法</title>
     <link>https://yjq14114.github.io/en/posts/first/</link>
     <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>

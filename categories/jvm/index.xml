@@ -9,7 +9,7 @@
     <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
     <author>Yang</author>
     <guid>https://yjq14114.github.io/posts/jvm/</guid>
-    <description><![CDATA[Jvm]]></description>
+    <description><![CDATA[JVM 包含三个不同的组件 Class Loader Loading Linking Initialization Runtime Memory/Data Area . Method Area Heap Area Stack Area PC Register Native Method Stack Execution Engine 5. Interpreter 6. JIT Compiler 7. Garbage Collector Class Loader Garbage Collector GC是用来管理java的堆内存 Mark 识别未使用的对象 Sweep 清]]></description>
 </item>
 </channel>
 </rss>

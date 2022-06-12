@@ -14,6 +14,14 @@
     <description><![CDATA[大家好 ]]></description>
 </item>
 <item>
+    <title>Basic Markdown Syntax</title>
+    <link>https://yjq14114.github.io/en/posts/basic-markdown-syntax/</link>
+    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <author>Dillon</author>
+    <guid>https://yjq14114.github.io/en/posts/basic-markdown-syntax/</guid>
+    <description><![CDATA[<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files.</p>]]></description>
+</item>
+<item>
     <title>Markdown 基本语法</title>
     <link>https://yjq14114.github.io/en/posts/first/</link>
     <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
