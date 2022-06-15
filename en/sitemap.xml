@@ -2,6 +2,15 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://yjq14114.github.io/en/posts/cqrs/</loc><lastmod>2021-01-01T16:45:40&#43;08:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://yjq14114.github.io/posts/cqrs/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://yjq14114.github.io/en/posts/cqrs/"
+                    /></url><url>
             <loc>https://yjq14114.github.io/en/posts/jvm/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
@@ -10,6 +19,24 @@
                     rel="alternate"
                     hreflang="en"
                     href="https://yjq14114.github.io/en/posts/jvm/"
+                    /></url><url>
+            <loc>https://yjq14114.github.io/en/posts/saga/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://yjq14114.github.io/posts/saga/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://yjq14114.github.io/en/posts/saga/"
+                    /></url><url>
+            <loc>https://yjq14114.github.io/en/posts/annotation/annotations/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://yjq14114.github.io/posts/annotation/annotations/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://yjq14114.github.io/en/posts/annotation/annotations/"
                     /></url><url>
             <loc>https://yjq14114.github.io/en/posts/basic-markdown-syntax/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><xhtml:link
                         rel="alternate"
@@ -29,7 +56,7 @@
                     hreflang="en"
                     href="https://yjq14114.github.io/en/posts/first/"
                     /></url><url>
-            <loc>https://yjq14114.github.io/en/categories/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><xhtml:link
+            <loc>https://yjq14114.github.io/en/categories/</loc><lastmod>2021-01-01T16:45:40&#43;08:00</lastmod><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="https://yjq14114.github.io/categories/"
@@ -37,6 +64,60 @@
                     rel="alternate"
                     hreflang="en"
                     href="https://yjq14114.github.io/en/categories/"
+                    /></url><url>
+            <loc>https://yjq14114.github.io/en/tags/cqrs/</loc><lastmod>2021-01-01T16:45:40&#43;08:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://yjq14114.github.io/tags/cqrs/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://yjq14114.github.io/en/tags/cqrs/"
+                    /></url><url>
+            <loc>https://yjq14114.github.io/en/tags/design-pattern/</loc><lastmod>2021-01-01T16:45:40&#43;08:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://yjq14114.github.io/tags/design-pattern/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://yjq14114.github.io/en/tags/design-pattern/"
+                    /></url><url>
+            <loc>https://yjq14114.github.io/en/categories/design-pattern/</loc><lastmod>2021-01-01T16:45:40&#43;08:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://yjq14114.github.io/categories/design-pattern/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://yjq14114.github.io/en/categories/design-pattern/"
+                    /></url><url>
+            <loc>https://yjq14114.github.io/en/</loc><lastmod>2021-01-01T16:45:40&#43;08:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://yjq14114.github.io/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://yjq14114.github.io/en/"
+                    /></url><url>
+            <loc>https://yjq14114.github.io/en/posts/</loc><lastmod>2021-01-01T16:45:40&#43;08:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://yjq14114.github.io/posts/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://yjq14114.github.io/en/posts/"
+                    /></url><url>
+            <loc>https://yjq14114.github.io/en/tags/</loc><lastmod>2021-01-01T16:45:40&#43;08:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://yjq14114.github.io/tags/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://yjq14114.github.io/en/tags/"
                     /></url><url>
             <loc>https://yjq14114.github.io/en/tags/html/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><xhtml:link
                         rel="alternate"
@@ -92,30 +173,13 @@
                     hreflang="en"
                     href="https://yjq14114.github.io/en/categories/markdown/"
                     /></url><url>
-            <loc>https://yjq14114.github.io/en/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><xhtml:link
+            <loc>https://yjq14114.github.io/en/tags/saga/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="https://yjq14114.github.io/"
+                        href="https://yjq14114.github.io/tags/saga/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="https://yjq14114.github.io/en/"
+                    href="https://yjq14114.github.io/en/tags/saga/"
                     /></url><url>
-            <loc>https://yjq14114.github.io/en/posts/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://yjq14114.github.io/posts/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://yjq14114.github.io/en/posts/"
-                    /></url><url>
-            <loc>https://yjq14114.github.io/en/tags/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://yjq14114.github.io/tags/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://yjq14114.github.io/en/tags/"
-                    /></url></urlset>
+            <loc>https://yjq14114.github.io/en/categories/saga/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod></url></urlset>

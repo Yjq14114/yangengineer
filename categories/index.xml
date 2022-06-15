@@ -3,12 +3,20 @@
         <title>Categories - 分类 - 杨先生的网站</title>
         <link>https://yjq14114.github.io/categories/</link>
         <description>Categories - 分类 - 杨先生的网站</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://yjq14114.github.io/categories/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 01 Dec 2021 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://yjq14114.github.io/categories/" rel="self" type="application/rss+xml" /><item>
     <title>Java</title>
     <link>https://yjq14114.github.io/categories/java/</link>
-    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <pubDate>Wed, 01 Dec 2021 21:57:40 &#43;0800</pubDate>
     <author>作者</author>
     <guid>https://yjq14114.github.io/categories/java/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>design pattern</title>
+    <link>https://yjq14114.github.io/categories/design-pattern/</link>
+    <pubDate>Tue, 01 Dec 2020 21:57:40 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://yjq14114.github.io/categories/design-pattern/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
