@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>cqrs - Tag - Mr.Yang WebSite</title>
+        <link>https://yjq14114.github.io/en/tags/cqrs/</link>
+        <description>cqrs - Tag - Mr.Yang WebSite</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 01 Dec 2020 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://yjq14114.github.io/en/tags/cqrs/" rel="self" type="application/rss+xml" /><item>
+    <title>CQRS For beginner</title>
+    <link>https://yjq14114.github.io/en/posts/cqrs/</link>
+    <pubDate>Tue, 01 Dec 2020 21:57:40 &#43;0800</pubDate>
+    <author>Yang</author>
+    <guid>https://yjq14114.github.io/en/posts/cqrs/</guid>
+    <description><![CDATA[CQRS For beginner]]></description>
+</item>
+</channel>
+</rss>

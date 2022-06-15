@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>java - 标签 - 杨先生的网站</title>
+        <link>https://yjq14114.github.io/tags/java/</link>
+        <description>java - 标签 - 杨先生的网站</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 01 Dec 2021 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://yjq14114.github.io/tags/java/" rel="self" type="application/rss+xml" /><item>
+    <title>SpringBoot 如何编写注解</title>
+    <link>https://yjq14114.github.io/posts/annotation/annotations/</link>
+    <pubDate>Wed, 01 Dec 2021 21:57:40 &#43;0800</pubDate>
+    <author>Yang</author>
+    <guid>https://yjq14114.github.io/posts/annotation/annotations/</guid>
+    <description><![CDATA[首先定义一个注解 @Target({ElementType.FIELD}) @Retention(RetentionPolicy.RUNTIME) @Documented @Inherited public @interface GRpcClient { String value() default &#34;localhost&#34;; Class&lt;? extends ClientInterceptor&gt;[] interceptors() default {}; }]]></description>
+</item>
+</channel>
+</rss>

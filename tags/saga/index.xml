@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Saga - 标签 - 杨先生的网站</title>
+        <link>https://yjq14114.github.io/tags/saga/</link>
+        <description>Saga - 标签 - 杨先生的网站</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://yjq14114.github.io/tags/saga/" rel="self" type="application/rss+xml" /><item>
+    <title>Saga</title>
+    <link>https://yjq14114.github.io/posts/saga/</link>
+    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <author>Yang</author>
+    <guid>https://yjq14114.github.io/posts/saga/</guid>
+    <description><![CDATA[和XA transaction 的比较 和两阶段事物(XA transaction)类似,需要实现事物的最终一致性 意图 此模式用于在分布式服务中自动的执行一系列的操作. 解]]></description>
+</item>
+</channel>
+</rss>
